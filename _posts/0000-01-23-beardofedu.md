@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide!"
 ---
 
 Making commits even while doing sick pop-shove-its
