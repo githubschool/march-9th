@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to RonkasPSEG's slide!"
 ---
 
 Making commits while asking to Throw me some something, Mister
