@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to derekacevedo's slide deck!"
 ---
 
 Cat eating ice cream.
