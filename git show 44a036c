@@ -1,0 +1,168 @@
+[33m8cb27eb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #42 from githubschool/wsmith2-caption
+[33maaed78c[m Merge pull request #33 from githubschool/spyic-caption
+[33md02c5d4[m Merge pull request #30 from githubschool/designMoreweb-Comment
+[33m4d24bc9[m Merge pull request #49 from githubschool/shreykhu-caption
+[33m008ce74[m Merge pull request #36 from githubschool/arch02-caption
+[33mc324cba[m Merge pull request #41 from githubschool/awhite575-caption
+[33m4608a56[m Merge pull request #48 from githubschool/shdesai36-caption
+[33m178b2e8[m Merge pull request #38 from githubschool/chinrung-caption
+[33mbc25cea[m Merge pull request #44 from githubschool/MatthewSchlosserPSEG-caption
+[33mf39e21e[m Merge pull request #43 from githubschool/derekacevedo-caption
+[33md1847bb[m Update _posts/0000-01-13-MatthewSchlosserPSEG.md
+[33meb51a62[m Merge pull request #34 from githubschool/beardofedu-caption
+[33m9c0de8c[m Merge pull request #35 from githubschool/mike-mar9-branch
+[33mc9cb283[m Merge pull request #31 from githubschool/peterhugger-caption
+[33m69b1420[m Merge pull request #39 from githubschool/Ebb-caption
+[33m6e81628[m Merge pull request #46 from githubschool/NowshadAzimi-caption
+[33m83c9dde[m Merge pull request #40 from githubschool/RonkasPSEG-caption
+[33md0e1415[m Merge pull request #37 from githubschool/TerHano-caption
+[33m017be45[m[33m ([m[1;32mchinrung-caption[m[33m)[m Update 0000-01-09-chinrung.md
+[33mc53f792[m[33m ([m[1;31morigin/mike-mar9-branch[m[33m)[m Update _posts/0000-01-21-Mike-the-powerful.md
+[33m57a5000[m Update caption with img
+[33m95559b3[m Update 0000-01-20-wsmith2.md
+[33mfa30c8f[m Update to Sid's Desk
+[33m62c277d[m Update _posts/0000-01-14-derekacevedo.md
+[33m09db0c0[m Update 0000-01-08-wsmith2.md
+[33mf6aacf3[m Update 0000-01-12-Gymky.md
+[33m1da3c40[m Update 0000-01-10-RonkasPSEG.md
+[33m3821751[m Update _posts/0000-01-07-NowshadAzimi.md
+[33ma06708f[m update title of slide
+[33m21d6905[m Update title of slide
+[33m66365be[m Update title of slide.
+[33m11bc18f[m Update _posts/0000-01-17-TerHano.md
+[33m580b549[m Update _posts/0000-01-18-arch02.md
+[33me5bb302[m Update _posts/0000-01-19-awhite575.md
+[33mcef7a94[m Update _posts/0000-01-12-Gymky.md
+[33m4b69f63[m Update _posts/0000-01-20-wsmith2.md
+[33m7816263[m Update _posts/0000-01-08-wsmith2.md
+[33m1cf054d[m Update _posts/0000-01-06-a00125970.md
+[33m6f52ba0[m THis is a test
+[33m44a036c[m Updating caption based on picture provided.
+[33m7723832[m Update caption with img
+[33m9e7d563[m Adding caption again since the push did not work
+[33mbc2a88b[m Updated caption based on provided image
+[33mbb3b646[m this message
+[33m784d1b8[m Update caption based on provided image
+[33macf9c01[m Update caption on image
+[33md47ce68[m Update caption based on provided image
+[33m19775b4[m Altered TerHano markdown file
+[33m96fa4ef[m Update caption based on provided image
+[33m72e69ff[m update caption based on provided image
+[33mb7a89ef[m Update caption based on provided image
+[33m9e7f05a[m Hilarious Batman reference
+[33m8725260[m Update caption based on provided imange
+[33maa2817d[m Update caption based on provided image
+[33m8436202[m update caption per my IMAGE
+[33m8db83a3[m Added an caption to the image
+[33m4fa242b[m[33m ([m[1;31morigin/designMoreweb-Comment[m[33m)[m New comment
+[33m1613280[m Octo-Comment
+[33ma407f8c[m Octo Comment
+[33ma06e8b0[m Activity file for beardofedu
+[33mbb5108d[m Activity file for XinyuXiong
+[33m612af5f[m Activity file for Mike-the-powerful
+[33m70e86c9[m Activity file for wsmith2
+[33m40b4055[m Activity file for awhite575
+[33m4a4ca8a[m Activity file for arch02
+[33m1a01a52[m Activity file for TerHano
+[33m611d7ea[m Activity file for shreykhu
+[33m1fe8074[m Activity file for Shdesai36
+[33m55a10ff[m Activity file for derekacevedo
+[33m96d8b86[m Activity file for MatthewSchlosserPSEG
+[33m9625727[m Activity file for Gymky
+[33m8ad3e4e[m Activity file for designMoreWeb
+[33m8eb1025[m Activity file for RonkasPSEG
+[33md670212[m Activity file for chinrung
+[33m3c95c68[m Activity file for wsmith2
+[33mfa9559e[m Activity file for NowshadAzimi
+[33mc011e98[m Activity file for a00125970
+[33me6dea8f[m Activity file for BinduTuli0609
+[33md7ef8ab[m Activity file for peterhugger
+[33mb6f52d7[m Activity file for FShenoda
+[33m13d82ce[m Activity file for satyapenta
+[33m89b9c5a[m update config with class information
+[33maa78f90[m create class README
+[33ma2a90ed[m Merge pull request #34 from githubtraining/dependabot/bundler/nokogiri-1.10.8
+[33mfd5c9aa[m Bump nokogiri from 1.10.5 to 1.10.8
+[33mf3edde8[m Merge pull request #33 from githubtraining/parkerbxyz/add-survey-link
+[33mb2bda69[m Add survey link
+[33me652a16[m Merge pull request #32 from githubtraining/update-readme
+[33m10951ea[m Add another visualizing git resource
+[33ma54ad35[m Add another viz tool and viz extension for vs code
+[33m0ad460a[m Remove Class Images from Class Resources
+[33m6e9bdcf[m Add blank line
+[33m0c5f401[m Update GiHub Enterprise Documentation URL
+[33m130e2f4[m Update Git Cheat Sheet URL
+[33m83f9b35[m Adjust HTML tag placement
+[33m5468775[m Remove extra blank lines
+[33m872e44e[m Surround headings with blank lines
+[33m8d6e884[m Remove trailing whitespace
+[33m9624e07[m Merge pull request #31 from githubtraining/snyk-fix-5e869d95ea7c18f4a56e1f0e4f5298c5
+[33m7983b07[m fix: Gemfile & Gemfile.lock to reduce vulnerabilities
+[33m3e1683b[m Merge pull request #30 from githubtraining/dependabot/bundler/rubyzip-2.0.0
+[33m6065cd3[m Bump rubyzip from 1.2.2 to 2.0.0
+[33m1e391de[m remove microphone emoji for scripting purposes
+[33m63de614[m add and clarify resources
+[33m6295c62[m Merge pull request #26 from githubtraining/snyk-fix-tcka0c
+[33me95502a[m fix: Gemfile.lock & Gemfile to reduce vulnerabilities
+[33ma21b5db[m Update jekyll to 3.6.3
+[33mfc4c1f7[m Merge pull request #25 from githubtraining/update-ffi
+[33m7af471c[m update ffi to per security vulnerability
+[33m5e28bad[m Merge pull request #24 from githubtraining/update-readme
+[33m04fc900[m update README.md with correct manual URL and better powershell instructions
+[33m4e82336[m update README with collapsable resources
+[33ma2ae510[m :arrow_up: nokogiri to 1.8.2
+[33me8f8bed[m Merge pull request #23 from githubtraining/update-nokogiri
+[33m51c87cb[m update nokogiri
+[33me2a587b[m Merge pull request #21 from githubtraining/update-memes
+[33m22ac56d[m memes memes go away - octocats are here to stay
+[33m6470057[m[33m ([m[1;33mtag: v1.0[m[33m)[m Merge pull request #19 from githubtraining/update-links
+[33me6d178d[m Merge pull request #20 from githubtraining/add-tz-win-support
+[33m4603898[m use  org, don't mirror gh
+[33m2118e72[m steal script/stage from @jasonetco
+[33m724c120[m :arrow_up: jekyll, use 'plugins' instead of gems
+[33m4630b7b[m add tz gem to support win users
+[33me2faf31[m change baseurl when building for cibuild
+[33mf4ccb37[m update link to resources page
+[33m3313090[m update learning path link
+[33m165b590[m Update links to resources
+[33m506d383[m set baseURL to caption-this
+[33mce31d2e[m Update title author and description
+[33m76991b5[m update training manual URL
+[33m33b8013[m update cheatsheet url
+[33mf5e5ee6[m Merge pull request #18 from githubtraining/new-manual-link
+[33m2a784f7[m Update link to new manual
+[33m4c72918[m Merge pull request #7 from githubtraining/add-memes
+[33m908ba08[m Merge branch 'gh-pages' into add-memes
+[33ma36a5c0[m replace meme links with aws versions
+[33m9eb7c06[m Merge pull request #14 from githubtraining/update-README
+[33m2675fc1[m Update README.md
+[33m549e590[m Revert "create class README"
+[33mb811f28[m create class README
+[33m24ac7e5[m create class README
+[33m7d01404[m Revert "create class README"
+[33ma034ce9[m create class README
+[33m54c59dc[m Merge pull request #13 from githubtraining/README-template
+[33mf253401[m Add standard class stuff to README
+[33m913fd1b[m Merge pull request #6 from githubtraining/brianamarie/add
+[33m7d0ab74[m their --> your
+[33mad02a02[m add workflow discussion questions
+[33mef5e1e2[m update with name of indvidual repo
+[33md720df1[m add info on where to find issue
+[33mf306eab[m fix tenses another's else's someone's
+[33m5d0686a[m remove prior slides
+[33m25bdea9[m change instructions to account for new process
+[33mf30239c[m add after class activities to day 4
+[33m9f9580e[m clarify how to handle class activities if no partner
+[33maeceb73[m change post class to after class
+[33m9729995[m clarify day 2 instructions, remove partner work
+[33mdafe277[m make all references absolute
+[33ma453e2e[m add memes
+[33m8840642[m clarify activities, and remove pair activity
+[33meca3fbc[m add detail to day 4
+[33m9e8fc00[m add slightly more detail to day 1 synchronous activities
+[33me2463ab[m Create day4.md
+[33mb811c5d[m Create day3.md
+[33mfd51b18[m Create day2.md
+[33m37a271c[m Create day1.md
+[33m3ed8ee1[m add instructions to README
+[33m5cc3595[m initial commit
