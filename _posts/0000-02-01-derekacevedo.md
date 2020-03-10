@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to derekacevedo's other slide!"
 ---
 
-CAPTION
+Adding picture of a Cat Party!
 
-![image description](image url)
+![Octogatos](https://octodex.github.com/images/Octogatos.png)
 {: .center}
