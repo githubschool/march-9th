@@ -1,4 +1,4 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: March 9th - 11th, 2020
 - Facilitator: @beardofedu
@@ -71,4 +71,3 @@ After you have completed this course, you are probably wondering where to go fro
 - [Join the open source community](https://github.com/open-source)
 
 March 10, 2020
-
