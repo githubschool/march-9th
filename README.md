@@ -1,4 +1,4 @@
-# GitHub for Developers
+﻿# GitHub for Developers
 
 - Class Date: March 9th - 11th, 2020
 - Facilitator: @beardofedu
