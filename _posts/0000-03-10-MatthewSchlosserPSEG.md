@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to MatthewSchlosserPSEG's other slide!"
 ---
 
-Image Caption
+Making commits from 187 feet deep!
 
-![image description](image url)
+![scubatocat](https://octodex.github.com/scubatocat/)
 {: .center}
