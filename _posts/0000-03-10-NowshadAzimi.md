@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to NowshadAzimi's other slide!"
 ---
 
-Ay look at me, I am just a dog floating on water. No big deal.
+Missing all the commits with my aim
 
-![octofez](https://octodex.github.com/images/octofez.png)
+![Stormcat](https://octodex.github.com/images/stormtroopocat.png)
 {: .center}
