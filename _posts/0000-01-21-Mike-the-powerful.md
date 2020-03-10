@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Mike-the-powerful's slide!"
 ---
 
-Caption here
+POPTOCAT does Mikes Commits ...
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
