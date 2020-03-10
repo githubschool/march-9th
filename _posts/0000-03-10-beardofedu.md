@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to beardofedu's other slide!"
 ---
 
-CAPTION-example
+Stomping these bugs with all my commits! 
 
-![image description](image url)
+![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
