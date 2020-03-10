@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to PeterHugger's 2nd slide!"
 ---
 
-CAPTION
+Rockman- MegaBuster Equipped
 
-![image_description](image_url)
+![megacat](https://octodex.github.com/megacat-2/)
 {: .center}
