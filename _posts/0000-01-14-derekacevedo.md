@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to derekacevedo's slide deck!"
 ---
 
-Caption here
+Cat eating ice cream.
 
 ![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
 {: .center}
