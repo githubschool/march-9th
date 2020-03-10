@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to RonkasPSEG's other new slide!"
 ---
 
-CAPTION
+Commit to Serve the Empire
 
-![image description](image url)
+![stormtroopercat](https://octodex.github.com/stormtroopocat/)
 {: .center}
